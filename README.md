@@ -15,7 +15,7 @@ A simple and stylish Todo application built with React and styled using Tailwind
 
 ## Screenshot
 
-![Todo List](https://pfst.cf2.poecdn.net/base/image/b7865b6538ca2af2c6600f12ac292c9b52ccd246623a2db41656b7f5248608ac?w=1024&h=768&pmaid=246089043)
+![Todo App](https://github.com/user-attachments/assets/71928b7b-7166-4998-ba03-45d1d49e0879)
 
 ## Getting Started
 
